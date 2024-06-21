@@ -6,4 +6,5 @@
 <hr>
 
 - Trading picture By Designer
-![](https://imgur.com/azcgZPe)
+
+![](https://i.imgur.com/azcgZPe.jpeg)
