@@ -4,4 +4,6 @@
  - Email:411351242@m365.fju.edu.tw
  - 學歷：[輔仁大學經濟學系](https://economics.fju.edu.tw/)
 <hr>
-! [](https://imgur.com/azcgZPe)
+
+- Trading picture By Designer
+![](https://imgur.com/azcgZPe)
