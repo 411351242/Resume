@@ -5,6 +5,10 @@
  - 學歷：[輔仁大學經濟學系](https://economics.fju.edu.tw/)
 <hr>
 
+1. abc
+2. def
+3. ghi
+
 - Trading picture By Designer
 
 ![](https://i.imgur.com/azcgZPe.jpeg)
